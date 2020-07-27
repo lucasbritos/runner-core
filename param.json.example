@@ -1,0 +1,14 @@
+{
+  "logLevel":"info",
+  "postgres":{
+    "host":"localhost",
+    "database":"runner",
+    "port":5432,
+    "user":"postgres",
+    "password":"postgres"
+  },
+  "scheduler":{
+    "nextInvocationCommandTimeoutFactor":2
+  }
+}
+
